@@ -1,0 +1,19 @@
+streamlit==1.38.0
+qdrant-client==1.9.2
+sentence-transformers==3.2.0
+transformers==4.44.2
+torch>=2.2.0
+numpy<2.0.0
+pandas>=2.2.0
+tqdm>=4.66.0
+python-dotenv==1.0.1
+pydantic==2.9.2
+pypdf==4.3.1
+python-docx==1.1.2
+beautifulsoup4==4.12.3
+html2text==2024.2.26
+httpx==0.27.2
+uvloop>=0.19.0; platform_system != "Windows"
+scikit-learn==1.5.2
+faiss-cpu
+ollama==0.3.3
