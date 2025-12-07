@@ -35,4 +35,5 @@ streamlit run app.py
 - Long-term memory is stored in Qdrant (`QDRANT_MEMORY_COLLECTION`). Short-term memory kept per-session.
 - LLM Judge validates response quality with configurable threshold (`JUDGE_THRESHOLD`).
 
-#Added LLM Judge: validates response quality, relevance, accuracy, citations, completeness, and clarity.
+## Added LLM Judge: validates response quality, relevance, accuracy, citations, completeness, and clarity.
+<img width="1024" height="376" alt="Screenshot-2025-12-06-at-11 04 18-PM-1024x376" src="https://github.com/user-attachments/assets/550e18b7-d187-43f8-80a3-e0973aa154c2" />
